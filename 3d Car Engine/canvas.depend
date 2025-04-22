@@ -1,0 +1,176 @@
+# depslib dependency file v1.0
+1686940768 source:c:\users\jonas\desktop\nova demos pq a antiga morreu\trab4augustopagnossimfrigo\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1686940741 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab4augustopagnossimfrigo\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector3.h"
+	<list>
+
+1426372440 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab4augustopagnossimfrigo\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab4augustopagnossimfrigo\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab4augustopagnossimfrigo\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1686927182 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab4augustopagnossimfrigo\src\vector2.h
+
+1589218349 source:c:\users\jonas\desktop\nova demos pq a antiga morreu\trab4augustopagnossimfrigo\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1193164156 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab4augustopagnossimfrigo\src\relogio.h
+	"gl_canvas2d.h"
+
+1687043806 source:c:\users\jonas\desktop\nova demos pq a antiga morreu\trab4augustopagnossimfrigo\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Vector3.h"
+	<cmath>
+	<iostream>
+	<stdlib.h>
+	"Matrix.h"
+	"MatrixHelper.h"
+	"Frames.h"
+
+1687037718 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab4augustopagnossimfrigo\src\vector3.h
+	<iostream>
+
+1687024505 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab4augustopagnossimfrigo\src\matrix.h
+	<iostream>
+	"Vector3.h"
+
+1687024418 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab4augustopagnossimfrigo\src\matrixhelper.h
+	"Matrix.h"
+
+1686694675 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab4augustopagnossimfrigo\src\frames.h
+	<stdio.h>
+	<time.h>
+
+1688668183 source:c:\users\jonas\desktop\demos\trab4augustopagnossimfrigo\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1688598173 c:\users\jonas\desktop\demos\trab4augustopagnossimfrigo\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector3.h"
+	<list>
+
+1426372440 c:\users\jonas\desktop\demos\trab4augustopagnossimfrigo\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\jonas\desktop\demos\trab4augustopagnossimfrigo\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\jonas\desktop\demos\trab4augustopagnossimfrigo\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1688599438 c:\users\jonas\desktop\demos\trab4augustopagnossimfrigo\src\vector3.h
+	<iostream>
+
+1688599231 source:c:\users\jonas\desktop\demos\trab4augustopagnossimfrigo\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"gl_canvas2d.h"
+	"Vector3.h"
+	"Frames.h"
+	"element.h"
+	<vector>
+	<algorithm>
+
+1688598191 c:\users\jonas\desktop\demos\trab4augustopagnossimfrigo\src\matrix.h
+	<iostream>
+	"Vector3.h"
+
+1688598194 c:\users\jonas\desktop\demos\trab4augustopagnossimfrigo\src\matrixhelper.h
+	"Matrix.h"
+
+1688598168 c:\users\jonas\desktop\demos\trab4augustopagnossimfrigo\src\frames.h
+	<stdio.h>
+	<time.h>
+
+1688599323 c:\users\jonas\desktop\demos\trab4augustopagnossimfrigo\src\manivela.h
+	"Vector3.h"
+	"math_util.h"
+	"gl_canvas2d.h"
+	"Matrix.h"
+	"MatrixHelper.h"
+	"defines.h"
+
+1688599343 c:\users\jonas\desktop\demos\trab4augustopagnossimfrigo\src\math_util.h
+	"math.h"
+	"Vector3.h"
+	"Matrix.h"
+	"MatrixHelper.h"
+	"line.h"
+	<vector>
+	"defines.h"
+
+1688599360 c:\users\jonas\desktop\demos\trab4augustopagnossimfrigo\src\pistao.h
+	"Vector3.h"
+	"math_util.h"
+	"gl_canvas2d.h"
+	"biela.h"
+	"manivela.h"
+	"defines.h"
+	<cmath>
+
+1688598918 c:\users\jonas\desktop\demos\trab4augustopagnossimfrigo\src\biela.h
+	"Vector3.h"
+	"math_util.h"
+	"gl_canvas2d.h"
+	<cmath>
+
+1687995560 c:\users\jonas\desktop\demos\trab4augustopagnossimfrigo\src\ihatecpp.h
+
+1688599298 c:\users\jonas\desktop\demos\trab4augustopagnossimfrigo\src\element.h
+	"manivela.h"
+	"pistao.h"
+	"biela.h"
+	"defines.h"
+	<vector>
+
+1688598176 c:\users\jonas\desktop\demos\trab4augustopagnossimfrigo\src\line.h
+	"Vector3.h"
+
+1687900135 c:\users\jonas\desktop\demos\trab4augustopagnossimfrigo\src\bubblesort.h
+	"Vector3.h"
+
+1688595415 c:\users\jonas\desktop\demos\trab4augustopagnossimfrigo\src\defines.h
+

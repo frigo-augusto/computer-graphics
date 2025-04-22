@@ -1,0 +1,415 @@
+# depslib dependency file v1.0
+1681695186 source:c:\users\jonas\desktop\demos\t1_augusto\src\bmp\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1651372645 c:\users\jonas\desktop\demos\t1_augusto\src\bmp\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1681695286 source:c:\users\jonas\desktop\demos\t1_augusto\src\bmp\bmpimg.cpp
+	"BmpImg.h"
+
+1681686446 c:\users\jonas\desktop\demos\t1_augusto\src\bmp\bmpimg.h
+	<vector>
+	"../Point.h"
+	"../gl_canvas2d.h"
+	"../polygonUtil.h"
+
+1681694611 c:\users\jonas\desktop\demos\t1_augusto\src\point.h
+
+1603974868 c:\users\jonas\desktop\demos\t1_augusto\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\jonas\desktop\demos\t1_augusto\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\jonas\desktop\demos\t1_augusto\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\jonas\desktop\demos\t1_augusto\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1680372188 c:\users\jonas\desktop\demos\t1_augusto\src\vector2.h
+	<math.h>
+
+1681670499 c:\users\jonas\desktop\demos\t1_augusto\src\polygonutil.h
+	"Point.h"
+	<stack>
+
+1681695137 source:c:\users\jonas\desktop\demos\t1_augusto\src\buttons\button.cpp
+	"Button.h"
+
+1681682628 c:\users\jonas\desktop\demos\t1_augusto\src\buttons\button.h
+	"../gl_canvas2d.h"
+	"../color.h"
+
+1681509675 source:c:\users\jonas\desktop\demos\t1_augusto\src\buttons\figurebutton.cpp
+	"FigureButton.h"
+
+1681569475 c:\users\jonas\desktop\demos\t1_augusto\src\buttons\figurebutton.h
+	"Button.h"
+	"../managers/FigureManager.h"
+
+1681607190 c:\users\jonas\desktop\demos\t1_augusto\src\managers\figuremanager.h
+	<vector>
+	"../Figure.h"
+	"../color.h"
+	"../matrix.h"
+
+1681695689 c:\users\jonas\desktop\demos\t1_augusto\src\figure.h
+	<iostream>
+	<vector>
+	"Point.h"
+	"color.h"
+	"matrix.h"
+	"bmp/BmpImg.h"
+
+1681695992 c:\users\jonas\desktop\demos\t1_augusto\src\color.h
+
+1681512546 c:\users\jonas\desktop\demos\t1_augusto\src\matrix.h
+	"Point.h"
+
+1681509711 source:c:\users\jonas\desktop\demos\t1_augusto\src\buttons\transformbutton.cpp
+	"TransformButton.h"
+
+1681165762 c:\users\jonas\desktop\demos\t1_augusto\src\buttons\transformbutton.h
+	"Button.h"
+	"../managers/TransformationManager.h"
+
+1681675175 c:\users\jonas\desktop\demos\t1_augusto\src\managers\transformationmanager.h
+	<stack>
+	<iostream>
+	"../matrix.h"
+	"../WritableMatrix.h"
+	"FigureManager.h"
+
+1681349515 c:\users\jonas\desktop\demos\t1_augusto\src\writablematrix.h
+	"Point.h"
+	"WritableElement.h"
+
+1681569103 c:\users\jonas\desktop\demos\t1_augusto\src\writableelement.h
+	"buttons/Button.h"
+
+1681696062 source:c:\users\jonas\desktop\demos\t1_augusto\src\figure.cpp
+	"Figure.h"
+	"gl_canvas2d.h"
+	<stack>
+	<algorithm>
+	"polygonUtil.h"
+	"color.h"
+	"bmp/bmp.h"
+	"bmp/BmpImg.h"
+
+1626955631 source:c:\users\jonas\desktop\demos\t1_augusto\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1681065321 source:c:\users\jonas\desktop\demos\t1_augusto\src\irregularfigure.cpp
+	"IrregularFigure.h"
+
+1681065321 c:\users\jonas\desktop\demos\t1_augusto\src\irregularfigure.h
+
+1681696216 source:c:\users\jonas\desktop\demos\t1_augusto\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"gl_canvas2d.h"
+	"Figure.h"
+	"managers/ButtonManager.h"
+	"managers/ColorManager.h"
+	"managers/TransformationManager.h"
+	"managers/KeyboardManager.h"
+
+1681352685 c:\users\jonas\desktop\demos\t1_augusto\src\managers\buttonmanager.h
+	<vector>
+	"../Figure.h"
+	"../buttons/Button.h"
+	"FigureManager.h"
+	"TransformationManager.h"
+
+1681695091 c:\users\jonas\desktop\demos\t1_augusto\src\managers\colormanager.h
+	"../Point.h"
+	"../gl_canvas2d.h"
+	<iostream>
+	"../color.h"
+
+1681682560 source:c:\users\jonas\desktop\demos\t1_augusto\src\managers\buttonmanager.cpp
+	"ButtonManager.h"
+	"../buttons/FigureButton.h"
+	"../buttons/TransformButton.h"
+
+1681695742 source:c:\users\jonas\desktop\demos\t1_augusto\src\managers\figuremanager.cpp
+	"FigureManager.h"
+	"../gl_canvas2d.h"
+	"../encryption.h"
+	<algorithm>
+	<fstream>
+	<string>
+	<sstream>
+
+1681696009 c:\users\jonas\desktop\demos\t1_augusto\src\encryption.h
+	<string>
+
+1681695967 source:c:\users\jonas\desktop\demos\t1_augusto\src\managers\transformationmanager.cpp
+	"TransformationManager.h"
+	"../gl_canvas2d.h"
+	"../buttons/TransformButton.h"
+	"../WritableElement.h"
+
+1681512545 source:c:\users\jonas\desktop\demos\t1_augusto\src\matrix.cpp
+	<stdlib.h>
+	<assert.h>
+	"Matrix.h"
+	"Point.h"
+	"WritableElement.h"
+
+1681332467 source:c:\users\jonas\desktop\demos\t1_augusto\src\matrixelement.cpp
+	"MatrixElement.h"
+	<string>
+	<sstream>
+	<iomanip>
+	<math.h>
+
+1681258373 c:\users\jonas\desktop\demos\t1_augusto\src\matrixelement.h
+	<iostream>
+
+1681068331 source:c:\users\jonas\desktop\demos\t1_augusto\src\point.cpp
+	"Point.h"
+
+1681696340 source:c:\users\jonas\desktop\demos\t1_augusto\src\polygonutil.cpp
+	<algorithm>
+	"polygonUtil.h"
+	<iostream>
+	<vector>
+
+1681084320 source:c:\users\jonas\desktop\demos\t1_augusto\src\regularfigure.cpp
+	"RegularFigure.h"
+
+1681084170 c:\users\jonas\desktop\demos\t1_augusto\src\regularfigure.h
+	"color.h"
+	"Figure.h"
+
+1681340607 source:c:\users\jonas\desktop\demos\t1_augusto\src\writable.cpp
+	"Writable.h"
+
+1681340599 c:\users\jonas\desktop\demos\t1_augusto\src\writable.h
+	"buttons/Button.h"
+
+1681569095 source:c:\users\jonas\desktop\demos\t1_augusto\src\writableelement.cpp
+	"WritableElement.h"
+
+1681696251 source:c:\users\jonas\desktop\demos\t1_augusto\src\writablematrix.cpp
+	<stdlib.h>
+	<assert.h>
+	"WritableMatrix.h"
+
+1681696284 c:\users\jonas\desktop\demos\t1_augusto\src\managers\keyboardmanager.h
+	"FigureManager.h"
+	<iostream>
+
+1681941218 source:c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\bmp\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1681941223 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\bmp\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1681958979 source:c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\bmp\bmpimg.cpp
+	"BmpImg.h"
+
+1681941431 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\bmp\bmpimg.h
+	<vector>
+	"../Point.h"
+	"../gl_canvas2d.h"
+	"../polygonUtil.h"
+
+1681956823 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\point.h
+
+1603974868 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1681956832 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\vector2.h
+	<math.h>
+
+1681956830 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\polygonutil.h
+	"Point.h"
+	<stack>
+
+1681956711 source:c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\buttons\button.cpp
+	"Button.h"
+
+1681956730 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\buttons\button.h
+	"../gl_canvas2d.h"
+	"../color.h"
+
+1681956770 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\color.h
+
+1681956731 source:c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\buttons\figurebutton.cpp
+	"FigureButton.h"
+
+1681956732 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\buttons\figurebutton.h
+	"Button.h"
+	"../managers/FigureManager.h"
+
+1681958390 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\managers\figuremanager.h
+	<vector>
+	"../Figure.h"
+	"../color.h"
+	"../matrix.h"
+
+1681957067 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\figure.h
+	<vector>
+	<string>
+	"Point.h"
+	"color.h"
+	"matrix.h"
+	"bmp/BmpImg.h"
+
+1681956810 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\matrix.h
+	"Point.h"
+
+1681956733 source:c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\buttons\transformbutton.cpp
+	"TransformButton.h"
+
+1681956733 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\buttons\transformbutton.h
+	"Button.h"
+	"../managers/TransformationManager.h"
+
+1681957032 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\managers\transformationmanager.h
+	<stack>
+	"../matrix.h"
+	"../WritableMatrix.h"
+	"FigureManager.h"
+
+1681956856 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\writablematrix.h
+	"Point.h"
+	"WritableElement.h"
+
+1681956844 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\writableelement.h
+	"buttons/Button.h"
+
+1626955631 source:c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1681959227 source:c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"gl_canvas2d.h"
+	"Figure.h"
+	"managers/ButtonManager.h"
+	"managers/ColorManager.h"
+	"managers/TransformationManager.h"
+	"managers/KeyboardManager.h"
+
+1681956743 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\managers\buttonmanager.h
+	<vector>
+	"../Figure.h"
+	"../buttons/Button.h"
+	"FigureManager.h"
+	"TransformationManager.h"
+
+1681957025 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\managers\colormanager.h
+	"../Point.h"
+	"../gl_canvas2d.h"
+	"../color.h"
+
+1681957028 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\managers\keyboardmanager.h
+	"FigureManager.h"
+
+1682000742 source:c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\managers\buttonmanager.cpp
+	"ButtonManager.h"
+	"../buttons/FigureButton.h"
+	"../buttons/TransformButton.h"
+
+1681999523 source:c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\managers\figuremanager.cpp
+	"FigureManager.h"
+	"../gl_canvas2d.h"
+	"../encryption.h"
+	<algorithm>
+	<fstream>
+	<string>
+	<sstream>
+
+1681956779 c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\encryption.h
+	<string>
+
+1682000700 source:c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\managers\transformationmanager.cpp
+	"TransformationManager.h"
+	"../gl_canvas2d.h"
+	"../buttons/TransformButton.h"
+	"../WritableElement.h"
+
+1681958445 source:c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\matrix.cpp
+	<stdlib.h>
+	<assert.h>
+	"Matrix.h"
+	"Point.h"
+	"WritableElement.h"
+
+1681956819 source:c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\point.cpp
+	"Point.h"
+
+1681999540 source:c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\polygonutil.cpp
+	<algorithm>
+	"polygonUtil.h"
+	<vector>
+	<assert.h>
+
+1681959261 source:c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\writableelement.cpp
+	"WritableElement.h"
+
+1681958494 source:c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\writablematrix.cpp
+	<stdlib.h>
+	<assert.h>
+	"WritableMatrix.h"
+
+1682002392 source:c:\users\jonas\desktop\demos\trab1augustopagnossimfrigo\src\figure.cpp
+	"Figure.h"
+	"gl_canvas2d.h"
+	<stack>
+	<algorithm>
+	<string>
+	"polygonUtil.h"
+	"color.h"
+	"bmp/bmp.h"
+	"bmp/BmpImg.h"
+

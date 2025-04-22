@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Canvas C++" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="../__bin/Debug/canvas" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../" />
+				<Option object_output="../__obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="../__bin/Release/canvas" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../" />
+				<Option object_output="../__obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-O2 -Wall" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Linker>
+			<Add library="../lib/libglu32.a" />
+			<Add library="../lib/libopengl32.a" />
+			<Add library="../lib/freeglut.lib" />
+		</Linker>
+		<Unit filename="include/GL/glut.h" />
+		<Unit filename="src/Figure.cpp" />
+		<Unit filename="src/Figure.h" />
+		<Unit filename="src/Matrix.cpp" />
+		<Unit filename="src/Matrix.h" />
+		<Unit filename="src/Point.cpp" />
+		<Unit filename="src/Point.h" />
+		<Unit filename="src/Vector2.h" />
+		<Unit filename="src/WritableElement.cpp" />
+		<Unit filename="src/WritableElement.h" />
+		<Unit filename="src/WritableMatrix.cpp" />
+		<Unit filename="src/WritableMatrix.h" />
+		<Unit filename="src/bmp/BmpImg.cpp" />
+		<Unit filename="src/bmp/BmpImg.h" />
+		<Unit filename="src/bmp/bmp.cpp" />
+		<Unit filename="src/bmp/bmp.h" />
+		<Unit filename="src/buttons/Button.cpp" />
+		<Unit filename="src/buttons/Button.h" />
+		<Unit filename="src/buttons/FigureButton.cpp" />
+		<Unit filename="src/buttons/FigureButton.h" />
+		<Unit filename="src/buttons/TransformButton.cpp" />
+		<Unit filename="src/buttons/TransformButton.h" />
+		<Unit filename="src/color.h" />
+		<Unit filename="src/encryption.h" />
+		<Unit filename="src/gl_canvas2d.cpp" />
+		<Unit filename="src/gl_canvas2d.h" />
+		<Unit filename="src/main.cpp" />
+		<Unit filename="src/managers/ButtonManager.cpp" />
+		<Unit filename="src/managers/ButtonManager.h" />
+		<Unit filename="src/managers/ColorManager.h" />
+		<Unit filename="src/managers/FigureManager.cpp" />
+		<Unit filename="src/managers/FigureManager.h" />
+		<Unit filename="src/managers/KeyboardManager.h" />
+		<Unit filename="src/managers/TransformationManager.cpp" />
+		<Unit filename="src/managers/TransformationManager.h" />
+		<Unit filename="src/polygonUtil.cpp" />
+		<Unit filename="src/polygonUtil.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

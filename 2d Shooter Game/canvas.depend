@@ -1,0 +1,427 @@
+# depslib dependency file v1.0
+1684724367 source:c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1603974868 c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1684721098 c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\src\vector2.h
+	<iostream>
+	<math.h>
+
+1589218349 source:c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1193164156 c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\src\relogio.h
+	"gl_canvas2d.h"
+
+1684795896 source:c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Entity.h"
+	"bmp.h"
+	"BmpImg.h"
+	"Frames.h"
+
+1589214882 c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\src\bola.h
+	"gl_canvas2d.h"
+
+1589214891 c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\src\botao.h
+	"gl_canvas2d.h"
+
+1684796078 source:c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\src\entity.cpp
+	"entity.h"
+	<iostream>
+	"gl_canvas2d.h"
+	<math.h>
+	<algorithm>
+	<cmath>
+	"Matrix.h"
+
+1684794743 c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\src\entity.h
+	"Vector2.h"
+	<vector>
+
+1684717919 source:c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\src\bezier.cpp
+	"Bezier.h"
+
+1684717918 c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\src\bezier.h
+
+1684721117 source:c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\src\matrix.cpp
+	"Matrix.h"
+
+1684720297 c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\src\matrix.h
+	<iostream>
+	"Vector2.h"
+
+1684794371 source:c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\src\player.cpp
+	"Player.h"
+
+1684794371 c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\include\player.h
+
+1651173612 source:c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1651372645 c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1655218909 source:c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\src\bmpimg.cpp
+	"BmpImg.h"
+	"gl_canvas2d.h"
+
+1684795865 c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\src\bmpimg.h
+
+1531759395 c:\users\jonas\desktop\demos\t2_cg_augusto_frigo\src\frames.h
+	<stdio.h>
+	<time.h>
+
+1686009929 source:c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\bezier.cpp
+	"Bezier.h"
+
+1686533036 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\bezier.h
+	<vector>
+	"Vector2.h"
+	"gl_canvas2d.h"
+	"VectorHelper.h"
+
+1686424320 source:c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1686424324 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1686424381 source:c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\bmpimg.cpp
+
+1686531687 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\bmpimg.h
+	"Bezier.h"
+
+1603974868 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1684891755 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\vector2.h
+	<iostream>
+	<math.h>
+
+1686537186 source:c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\entity.cpp
+	"entity.h"
+	<iostream>
+	"gl_canvas2d.h"
+	<math.h>
+	<algorithm>
+	<cmath>
+	"Matrix.h"
+
+1686537073 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\entity.h
+	"Vector2.h"
+	"Projectile.h"
+	<vector>
+	<list>
+
+1684720297 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\matrix.h
+	<iostream>
+	"Vector2.h"
+
+1684961061 source:c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1686532687 source:c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"bmp.h"
+	"BmpImg.h"
+	"Frames.h"
+	"EntityManager.h"
+
+1531759395 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\frames.h
+	<stdio.h>
+	<time.h>
+
+1684721117 source:c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\matrix.cpp
+	"Matrix.h"
+
+1686424755 source:c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\player.cpp
+
+1684794371 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\include\player.h
+
+1686537086 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\player.h
+	"Entity.h"
+	"time.h"
+	"Entity.h"
+	"Enemy.h"
+	"ShooterEnemy.h"
+	"SpecialProjectile.h"
+
+1686537310 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\projectile.h
+	<cmath>
+	"Vector2.h"
+	"gl_canvas2d.h"
+	"VectorHelper.h"
+
+1684849090 source:c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\projectile.cpp
+	"Projectile.h"
+
+1686424358 source:c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\enemy.cpp
+
+1686534619 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\enemy.h
+	"Entity.h"
+
+1684872763 source:c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\enemymanager.cpp
+	"EnemyManager.h"
+
+1686407816 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\enemymanager.h
+	"Enemy.h"
+	"Matrix.h"
+	"MatrixHelper.h"
+	"VectorHelper.h"
+	"Player.h"
+	"Vector2.h"
+	"ShooterEnemy.h"
+	"Bezier.h"
+	"SpecialProjectile.h"
+
+1684874998 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\matrixhelper.h
+	"Matrix.h"
+
+1686535503 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\vectorhelper.h
+	"Vector2.h"
+	<vector>
+
+1684963742 source:c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\shooterenemy.cpp
+	"ShooterEnemy.h"
+
+1686535237 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\shooterenemy.h
+	"Entity.h"
+	"Bezier.h"
+	"time.h"
+
+1686533235 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\specialprojectile.h
+	"Vector2.h"
+	"Bezier.h"
+	"Projectile.h"
+	"Enemy.h"
+	"ShooterEnemy.h"
+
+1686403945 source:c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\specialprojectile.cpp
+	"SpecialProjectile.h"
+
+1686535286 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\entitymanager.h
+	"Enemy.h"
+	"Matrix.h"
+	"MatrixHelper.h"
+	"VectorHelper.h"
+	"Player.h"
+	"Vector2.h"
+	"ShooterEnemy.h"
+	"Bezier.h"
+	"SpecialProjectile.h"
+	"Collision.h"
+
+1686534864 c:\users\jonas\desktop\demos\trab3augustopagnossimfrigo\src\collision.h
+
+1686694604 source:c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1686694608 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1686424381 source:c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\bmpimg.cpp
+
+1686694664 source:c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\entity.cpp
+	"entity.h"
+	<iostream>
+	"gl_canvas2d.h"
+	<math.h>
+	<algorithm>
+	<cmath>
+	"Matrix.h"
+
+1686694667 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\entity.h
+	"Vector2.h"
+	"Projectile.h"
+	<vector>
+
+1686694715 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\vector2.h
+	<iostream>
+	<math.h>
+
+1686694704 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\projectile.h
+	<cmath>
+	"Vector2.h"
+	"gl_canvas2d.h"
+	"VectorHelper.h"
+
+1686694681 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1686694719 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\vectorhelper.h
+	"Vector2.h"
+	<vector>
+
+1686694690 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\matrix.h
+	<iostream>
+	"Vector2.h"
+
+1686694678 source:c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1686694687 source:c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"gl_canvas2d.h"
+	"bmp.h"
+	"BmpImg.h"
+	"Frames.h"
+	"EntityManager.h"
+	"Pontuacao.h"
+	"keys.h"
+
+1686694618 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\bmpimg.h
+	"Bezier.h"
+
+1686694596 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\bezier.h
+	<vector>
+	"Vector2.h"
+	"gl_canvas2d.h"
+	"VectorHelper.h"
+
+1686694675 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\frames.h
+	<stdio.h>
+	<time.h>
+
+1686694672 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\entitymanager.h
+	"Enemy.h"
+	"VectorHelper.h"
+	"Player.h"
+	"Vector2.h"
+	"ShooterEnemy.h"
+	"Bezier.h"
+	"Collision.h"
+	"keys.h"
+
+1686694626 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\enemy.h
+	"Entity.h"
+
+1684874998 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\matrixhelper.h
+	"Matrix.h"
+
+1686694697 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\player.h
+	"Entity.h"
+	"time.h"
+	"Entity.h"
+	"Enemy.h"
+	"ShooterEnemy.h"
+	"SpecialProjectile.h"
+
+1686694708 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\shooterenemy.h
+	"Entity.h"
+	"Bezier.h"
+	"time.h"
+
+1686694712 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\specialprojectile.h
+	"Vector2.h"
+	"Bezier.h"
+	"Projectile.h"
+	"Enemy.h"
+	"ShooterEnemy.h"
+
+1686694622 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\collision.h
+
+1686424755 source:c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\player.cpp
+
+1684849090 source:c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\projectile.cpp
+	"Projectile.h"
+
+1686694700 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\pontuacao.h
+	"gl_canvas2d.h"
+
+1686615653 c:\users\jonas\desktop\nova demos pq a antiga morreu\trab3augustopagnossimfrigo\src\keys.h
+
