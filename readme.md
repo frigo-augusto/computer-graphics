@@ -9,6 +9,12 @@ I want to present you the gifs of each project:
 
 ## Image Editor
 
+![Image Editor Demo](image-editor.gif)
+
 ## 2d Shooter Game
 
+![2D Shooter Game Demo](2d-shooter-game.gif)
+
 ## 3d Car Engine
+
+![3D Car Engine Demo](car-engine.gif)
